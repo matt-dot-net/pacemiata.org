@@ -1,6 +1,6 @@
 # Seasonal Home Slider
 
-A small WordPress plugin for the PA Central Miata Club website, [pacemiata.org](https://pacemiata.org), that automatically swaps the homepage Avada/Fusion Slider based on the current season.
+A small WordPress plugin for the PA Central Miata Club website, [pacemiataclub.org](https://pacemiataclub.org), that automatically swaps the homepage Avada/Fusion Slider based on the current season.
 
 The plugin keeps the homepage Avada Slider element set to a single default slider, `home`, and intercepts that slider at render time to display the appropriate seasonal slider instead.
 
@@ -231,4 +231,4 @@ If the slider names are changed in Avada, update the `$slider_names` array in `s
 
 Custom utility plugin created for the PA Central Miata Club website.
 
-Site: [pacemiata.org](https://pacemiata.org)
+Site: [pacemiataclub.org](https://pacemiataclub.org)

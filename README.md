@@ -2,7 +2,7 @@
 
 This repository contains custom WordPress code for the PA Central Miata Club website:
 
-https://pacemiata.org
+https://pacemiataclub.org
 
 The site uses WordPress with the Avada theme. Customizations in this repository are intended to be small, isolated, and update-safe. They should not modify the Avada parent theme directly.
 
@@ -209,4 +209,4 @@ Custom utility code for the PA Central Miata Club website.
 
 Site:
 
-https://pacemiata.org
+https://pacemiataclub.org
